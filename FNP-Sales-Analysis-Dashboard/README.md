@@ -1,5 +1,17 @@
 # FNP Sales & Revenue Analysis | End-to-End Excel Project
 
+
+
+
+<img width="1366" height="707" alt="image" src="https://github.com/user-attachments/assets/6bb2bc4b-3dc3-4a7f-9d66-dabe6c9456b6" />
+
+
+
+
+
+
+
+
 ## Project Overview
 
 An end-to-end **Ferns N Petals (FNP) sales analysis project** developed using Microsoft Excel. The project transforms raw sales data into business insights through **Power Query, Power Pivot, Data Modeling, PivotTables, and an interactive dashboard**.
